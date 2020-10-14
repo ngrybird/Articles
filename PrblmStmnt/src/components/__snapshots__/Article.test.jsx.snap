@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Article/> render Article component with sample data 1`] = `
+<div>
+  <tr>
+    <td
+      class="article-item"
+    >
+      Harry Potter and the Sorcerer’s Stone Review
+    </td>
+    <td
+      class="article-item"
+    >
+      56
+    </td>
+    <td
+      class="article-item"
+    >
+      2016-12-22T18:30:00.000Z
+    </td>
+  </tr>
+</div>
+`;

@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Article/> render Article component with sample data 1`] = `
+<div>
+  <table>
+    <tr>
+      <th>
+        Title
+      </th>
+      <th>
+        Upvotes
+      </th>
+      <th>
+        Release Date
+         
+        <button>
+          Newest
+        </button>
+      </th>
+    </tr>
+    <tr>
+      <td
+        class="article-item"
+      >
+        Harry Potter and the Half Blood Prince Review
+      </td>
+      <td
+        class="article-item"
+      >
+        23
+      </td>
+      <td
+        class="article-item"
+      >
+        2016-12-01T18:30:00.000Z
+      </td>
+    </tr>
+    <tr>
+      <td
+        class="article-item"
+      >
+        Harry Potter and the Sorcerer’s Stone Review
+      </td>
+      <td
+        class="article-item"
+      >
+        56
+      </td>
+      <td
+        class="article-item"
+      >
+        2016-12-22T18:30:00.000Z
+      </td>
+    </tr>
+    <tr>
+      <td
+        class="article-item"
+      >
+        Harry Potter and the Goblet of Fire Review
+      </td>
+      <td
+        class="article-item"
+      >
+        3
+      </td>
+      <td
+        class="article-item"
+      >
+        2017-11-01T18:30:00.000Z
+      </td>
+    </tr>
+  </table>
+</div>
+`;
+
+exports[`<ArticleList/> render Article component with sample data 1`] = `
+<div>
+  <table>
+    <tr>
+      <th>
+        Title
+      </th>
+      <th>
+        Upvotes
+      </th>
+      <th>
+        Release Date
+         
+        <button>
+          Newest
+        </button>
+      </th>
+    </tr>
+    <tr>
+      <td
+        class="article-item"
+      >
+        Harry Potter and the Half Blood Prince Review
+      </td>
+      <td
+        class="article-item"
+      >
+        23
+      </td>
+      <td
+        class="article-item"
+      >
+        2016-12-01T18:30:00.000Z
+      </td>
+    </tr>
+    <tr>
+      <td
+        class="article-item"
+      >
+        Harry Potter and the Sorcerer’s Stone Review
+      </td>
+      <td
+        class="article-item"
+      >
+        56
+      </td>
+      <td
+        class="article-item"
+      >
+        2016-12-22T18:30:00.000Z
+      </td>
+    </tr>
+    <tr>
+      <td
+        class="article-item"
+      >
+        Harry Potter and the Goblet of Fire Review
+      </td>
+      <td
+        class="article-item"
+      >
+        3
+      </td>
+      <td
+        class="article-item"
+      >
+        2017-11-01T18:30:00.000Z
+      </td>
+    </tr>
+  </table>
+</div>
+`;
